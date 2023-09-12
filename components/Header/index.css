@@ -1,0 +1,48 @@
+.dropDownClass{
+    border:none;
+    margin-left: 10px;
+}
+.navbarClass{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.box1{
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box2{
+    margin-right: 100px;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    margin-left: 7px;
+}
+.button1{
+    padding: 10px;
+    background-color:#ffffff;
+    border:none;
+    font-weight: 600;
+    margin-right: 6px;
+}
+.price-head{
+    color:black;
+}
+.button2{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 19px;
+    padding: 10px;
+    font-weight: 600;
+    margin-left: 5px;
+}
+.dropDownClass{
+    margin-right: 20px;
+}

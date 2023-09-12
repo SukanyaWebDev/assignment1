@@ -1,0 +1,117 @@
+
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height:160vh;
+  
+}
+    .mainDisplay{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .month-button{
+  background-color: black;
+  color:#ffffff;
+  border-radius: 19px;
+  padding: 6px;
+  width:140px;
+    }
+    .list-head{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .icon-color{
+        color:aqua;
+        margin-right: 10px;
+    }
+    
+    .offerDisplay{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border:1px solid black;
+        border-radius: 3px;
+       
+        border-style: dashed;
+        border-color: aqua;
+        border-width:3px;
+        margin:20px;
+        border-radius: 20px;
+        width:300px;
+    }
+    .card1{
+        border-style: solid;
+        border-color:aqua;
+        border-radius: 10px;
+        padding:20px;
+        border-width: 3px;
+        display: flex;
+        flex-direction: column;
+        margin-right:7px;
+        box-shadow: 1px 0px 1px 0px;
+
+    }
+    .card2{
+        border-style: solid;
+        border-color:white;
+        border-radius: 10px;
+        padding:20px;
+        border-width: 3px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 2px 2px 2px 2px;
+        margin-right: 7px;
+
+    }s
+    
+    .rupess-container{
+        display: flex;
+        
+    }
+    .sukanya{
+        display: flex;
+
+    }
+    .price{
+        font-size:40px;
+    }
+    .inr-head{
+       font-size: 8px;
+
+    }
+    .get-container{
+        background-color:cadetblue;
+        height:25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding:10px;
+        margin-bottom: 10px;
+    }
+    .list-container{
+        display:flex;
+        justify-content: flex-start;
+        align-items: center;
+
+    }
+     .main-list{
+        display:flex;
+        /* flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start; */
+
+    } 
+    .try-button{
+        background-color: black;
+        color:#ffffff;
+        border-radius: 15px;
+        padding:6px;
+       
+        width:400px;
+    }
+    .card-container{
+        display: flex;
+    }
