@@ -20,6 +20,8 @@ const Header = () => (
         <div className="box2">
             <button type="button" className="button button1">Log in</button>
             <button type="button " className="button button2">Start free trail</button>
+            <h1>hii</h1>
+            <h1>hello</h1>
         </div>
     </nav>
 )
