@@ -22,6 +22,7 @@ const Header = () => (
             <button type="button " className="button button2">Start free trail</button>
             <h1>hii</h1>
             <h1>hello</h1>
+            <h1>hellooo</h1>
         </div>
     </nav>
 )
